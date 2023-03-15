@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "iceberg_yt",
   "resources": [
+    {"id":{"name":"IB_Object_Base","path":"objects/IB_Object_Base/IB_Object_Base.yy",},"order":11,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
